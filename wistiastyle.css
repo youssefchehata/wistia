@@ -1,0 +1,247 @@
+
+
+.header{
+	display: flex;
+	justify-content: space-between;
+    border: 0.5px solid #F0FFF0;
+}
+.logo{
+width: 30%;
+}
+#imagelogo{
+	width: 80%;
+    border: 0px solid gray;
+    
+    padding: 10%;
+}
+.menu{ 
+    width: 70%;
+	border: 0.5px solid #F0FFF0;
+	height: 115px;
+    
+ }
+ .menu1 ul{
+
+ list-style-type: none;
+  margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content:center;
+    padding: 14px 16px;
+    border-bottom:0.5px solid #F0FFF0;
+    
+}
+.espace{
+	margin-left: 10%;
+}
+.menu2 {
+    text-align: center;
+    background-color: 	#F8F8FF;
+		 padding: 26px;
+}
+.SignupLogin{
+
+	display: flex;
+    justify-content:flex-end;
+    width: 30%;
+   
+}
+.Signup{
+	color: 	#1E90FF;
+     text-align: center;
+	 border-right:1px solid #F0FFF0;
+	 width: 50%;
+	 padding: 30px; ;
+}
+.Signup a{
+	color: 	#1E90FF;}
+.Login{
+	text-align: center;
+	background-color: white;
+	 width: 50%;
+	 padding: 9%;
+     
+    /*background: url();*/
+
+}
+.centerpage{
+	
+
+background-color: #ff9999;
+	
+}
+.discription{
+	position: relative;
+	/*margin: auto;*/
+    width: 50%;
+    padding: 10px;
+    height: 370px;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 20px;
+	/*border: 1px solid white;*/
+}
+.discription p{
+	position: absolute;
+	top: 30%;
+	left: 20%
+
+}
+.buttvideo {
+	height: 60px;
+	width: 200px;
+	margin: 119px;
+	margin-top: 39%;
+}
+.buttvideo {
+background-color: #ff9999;
+}
+.buttvideo:hover {
+background-color: white;
+}
+#video-one {
+	
+	width:50%;
+	 height:370px ;
+	 float: right;
+     margin-top: 1.5%;
+     margin-right: 0.5%;
+	 
+}
+
+.boxes{
+	display:flex;
+	justify-content: stretch;
+	height: 400px;
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	/*font-family: 'Fahkwang', sans-serif;*/
+
+}
+.WistiaHosting{
+
+background-color: #FFE4B5;
+/*width: 33.33%;*/
+}
+.WistiaHosting i{
+	/*width: 20%;*/
+}
+.WistiaHosting p{
+	margin-top: 15%;
+	line-height: 2.5;
+}
+
+.Soapbox{
+background-color: #7FFF00;
+/*width: 33.33%;*/
+}
+.Soapbox svg{
+width: 10%;
+/*width: 33.33%;*/
+}
+.Soapbox p{
+margin-top: 15%;
+line-height: 2.5;
+}
+.Growyourvideoskills{
+background-color: lightblue;
+/*width: 33.33%;*/
+}
+.Growyourvideoskills p{
+margin-top: 15%;
+line-height: 2.5;
+}
+
+.butt{
+	height: 60px;
+	width: 200px;
+	margin: 20px;
+	}
+
+.b-one  {
+background-color: #FFE4B5;
+}
+.b-tow{
+	 background-color: #7FFF00;
+      
+}
+.b-tow:hover {
+	 background-color: white;
+      
+}
+.b-one:hover {
+	 background-color: white;
+      
+}
+
+.slogo{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5%;
+}
+
+ .slogo img {
+
+
+height: 10%;
+    width:10% ;
+
+}
+.slogo p {
+	color: #808080;
+
+}
+/*-------------------------------------onetowthree---------------------------------------*/
+.onetowthree {
+display: flex;
+justify-content: space-between;
+/*align-content: center;*/
+margin-top: 5%;
+}
+.onetowthree p{
+margin-right: 28%;
+
+}
+#TermsofService {
+	font-family: 'Fjalla One', sans-serif;
+	background-color: #e8e7e6;
+	padding:3%;
+	text-align: center;
+}
+.blackborder{
+	background-color: black;
+	height: 10%;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	
+
+}
+.blackborder p{
+	font-family: 'Fjalla One', sans-serif;
+	line-height: 2.5;
+}
+.blackborder ul{
+list-style-type: none;
+margin-top: 30px;
+}
+.blackborder img{
+	width: 3%;
+	margin-top:-6%;
+	/*margin-left: 20px;
+	margin-right:20px;*/
+	padding:5px;
+
+}
+
+.blackfooter{
+	background-color: black;
+}
+.allright {
+	color: white;
+	font-family: 'Fjalla One', sans-serif;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.noneunderline a {
+	text-decoration: none;
+}
